@@ -3,5 +3,5 @@ langgraph
 openai
 fastapi
 uvicorn
-postmark-python 
+postmarker
 streamlit
